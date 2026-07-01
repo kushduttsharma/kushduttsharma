@@ -3,37 +3,37 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kushduttsharma&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/kushduttsharma?style=for-the-badge&color=blueviolet)
 
-## 👤 About Me
+## whoami
 
-🎓 I'm a student learning to code — currently exploring a bit of everything across frontend, backend, databases, and computer vision.
+I'm a student learning to code — currently exploring a bit of everything across frontend, backend, databases, and computer vision.
 📍 Based in Delhi, India.
-🧩 Fun fact: I love to solve Rubik's cubes.
-🌱 Always experimenting with new tools and building things to learn by doing.
+Fun fact: I love to solve Rubik's cubes.
+Always experimenting with new tools and building things to learn by doing.
 
-## 🧰 My Tech Stack
+## Tech Stack
 
-**🎨 Frontend**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**⚙️ Backend**
+**Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**🗄️ Databases**
+**Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**👁️ Computer Vision**
+**Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**🛠️ Tools**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,7 +50,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushduttsharma&theme=radical&hide_border=true)
 
-## 📬 Get In Touch
+## Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-dutt-sharma-23a397392/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushduttsharma89@gmail.com)
