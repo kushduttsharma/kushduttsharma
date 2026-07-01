@@ -30,42 +30,45 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 
 ```bash
 $ tech_stack --category frontend
-> html, css, javascript, tailwindcss
 ```
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00FF00"/>
 </p>
 
 ```bash
 $ tech_stack --category backend
-> python, flask
 ```
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00FF00"/>
 </p>
 
 ```bash
 $ tech_stack --category databases
-> mongodb, mysql
 ```
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF00"/>
 </p>
 
 ```bash
 $ tech_stack --category computer_vision
-> opencv
 ```
 <p align="center">
-<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=00FF00"/>
 </p>
 
 ```bash
 $ tech_stack --category tools
-> git, github, vscode, postman
 ```
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00FF00"/>
 </p>
 
 <div align="center">
@@ -79,8 +82,6 @@ $ tech_stack --category tools
 
 📫 **your.email@example.com**  |  🔗 **[LinkedIn](https://linkedin.com)**  |  🐦 **[Twitter](https://twitter.com)**
 
-```
-Connection established. Say hi anytime.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1200&pause=800&color=00FF00&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Connection+established...;Say+hi+anytime.;C0nn3ct10n_3st4bl1sh3d;S4y+h1+4nyt1m3." alt="glitch text" />
 
 </div>
