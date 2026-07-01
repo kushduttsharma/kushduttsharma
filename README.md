@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,5&height=220&section=header&text=Kush%20Dutt%20Sharma&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=%3C%20Student%20%7C%20Learning%20to%20Break%20%26%20Build%20Things%20%2F%3E&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,5&height=220&section=header&text=Kush%20Dutt%20Sharma&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=%3C%20Student%20%7C%20Learning%20to%20Break%20%26%20Build%20Things%20%2F%3E&descAlignY=55&descAlign=50" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kushduttsharma&color=39FF14&style=for-the-badge&label=CONNECTIONS)
 ![Followers](https://img.shields.io/github/followers/kushduttsharma?style=for-the-badge&color=39FF14&label=FOLLOWERS)
@@ -22,26 +22,21 @@ kush@dev-machine:~$ ls tech_stack/ --logos
 
 **🎨 Frontend**
 
-| | |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=html" width="32"/> | HTML5 |
-| <img src="https://skillicons.dev/icons?i=css" width="32"/> | CSS3 |
-| <img src="https://skillicons.dev/icons?i=js" width="32"/> | JavaScript |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="32"/> | Tailwind CSS |
+| <img src="https://skillicons.dev/icons?i=html" width="32"/> | <img src="https://skillicons.dev/icons?i=css" width="32"/> | <img src="https://skillicons.dev/icons?i=js" width="32"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="32"/> |
+|:---:|:---:|:---:|:---:|
+| HTML5 | CSS3 | JavaScript | Tailwind CSS |
 
 **⚙️ Backend**
 
-| | |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=python" width="32"/> | Python |
-| <img src="https://skillicons.dev/icons?i=flask" width="32"/> | Flask |
+| <img src="https://skillicons.dev/icons?i=python" width="32"/> | <img src="https://skillicons.dev/icons?i=flask" width="32"/> |
+|:---:|:---:|
+| Python | Flask |
 
 **🗄️ Databases**
 
-| | |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="32"/> | MongoDB |
-| <img src="https://skillicons.dev/icons?i=mysql" width="32"/> | MySQL |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="32"/> | <img src="https://skillicons.dev/icons?i=mysql" width="32"/> |
+|:---:|:---:|
+| MongoDB | MySQL |
 
 **👁️ Computer Vision**
 
@@ -51,12 +46,9 @@ kush@dev-machine:~$ ls tech_stack/ --logos
 
 **🛠️ Tools**
 
-| | |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=git" width="32"/> | Git |
-| <img src="https://skillicons.dev/icons?i=github" width="32"/> | GitHub |
-| <img src="https://skillicons.dev/icons?i=vscode" width="32"/> | VS Code |
-| <img src="https://skillicons.dev/icons?i=postman" width="32"/> | Postman |
+| <img src="https://skillicons.dev/icons?i=git" width="32"/> | <img src="https://skillicons.dev/icons?i=github" width="32"/> | <img src="https://skillicons.dev/icons?i=vscode" width="32"/> | <img src="https://skillicons.dev/icons?i=postman" width="32"/> |
+|:---:|:---:|:---:|:---:|
+| Git | GitHub | VS Code | Postman |
 
 ```bash
 kush@dev-machine:~$ cat stats.log
