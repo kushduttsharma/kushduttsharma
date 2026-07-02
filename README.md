@@ -44,27 +44,34 @@ kush@github:~$ ./tech_stack.sh --list
 
 <div align="center">
 
-#### 🟩&nbsp;`LANGUAGES`
+<div align="center">
+
+#### 🟦&nbsp;`BACKEND`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 <br>
 
-#### 🟦&nbsp;`FRAMEWORKS & LIBRARIES`
+#### 🟩&nbsp;`FRONTEND`
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>
 
-#### 🟨&nbsp;`DATABASES`
+#### 🟨&nbsp;`DATABASE`
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br>
+
+#### 🟥&nbsp;`AI/ML`
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 <br>
 
@@ -115,7 +122,7 @@ kush@github:~$ cat contact.json
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&random=true&width=650&height=50&lines=C0NN3CTION+35T4BL1SH3D...;C̶o̶n̶n̶e̶c̶t̶i̶o̶n̶+established.;connection_established%3D%3Dtrue;%3E+say+hi+anytime._" alt="glitch text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1400&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&width=650&height=50&lines=C0NN3CTION%3A%3AE5TABL1SHED;Connection+established.;%3E+say+hi+anytime_" alt="Connection established. Say hi anytime." />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
