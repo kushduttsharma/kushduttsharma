@@ -1,58 +1,116 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Kush%20Dutt%20Sharma&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Learning%20Full%20Stack%20Development&descAlignY=55&descAlign=50" />
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kushduttsharma&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kushduttsharma?style=for-the-badge&color=blueviolet)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Kush%20Dutt%20Sharma&fontSize=42&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Designer%20%7C%20Perpetual%20Learner&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
 
-## 👤 About Me
+<a href="https://github.com/kushduttsharma">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Kush+Dutt+Sharma;status+%3D+%22Learning...+Building...+Debugging...%22;interests+%3D+%5B%22Frontend%22%2C+%22Web+Design%22%5D;echo+%22Welcome+to+my+terminal%22" alt="Typing SVG" />
+</a>
 
-🎓 I'm a student learning to code — currently exploring a bit of everything across frontend, backend, databases, and computer vision.
-📍 Based in Delhi, India.
-🧩 Fun fact: I love to solve Rubik's cubes.
-🌱 Always experimenting with new tools and building things to learn by doing.
+</div>
 
-## 🧰 My Tech Stack
+<br>
 
-**🎨 Frontend**
+```bash
+kush@github:~$ cat about_me.txt
+```
 
-<img src="https://skillicons.dev/icons?i=html" width="22"/> HTML<br>
-<img src="https://skillicons.dev/icons?i=css" width="22"/> CSS<br>
-<img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript<br>
-<img src="https://skillicons.dev/icons?i=tailwind" width="22"/> Tailwind CSS<br>
+```yaml
+> Student / Learner exploring the world of code, one commit at a time.
+> Currently sharpening my skills in Frontend Development & Web Designing.
+> I build things that live on the web — clean, functional, and (hopefully) beautiful.
+> Always debugging something, always learning something new.
+```
 
-**⚙️ Backend**
+<br>
 
-<img src="https://skillicons.dev/icons?i=python" width="22"/> Python<br>
-<img src="https://skillicons.dev/icons?i=flask" width="22"/> Flask<br>
+```bash
+kush@github:~$ ls -la ./currently_learning/
+```
 
-**🗄️ Databases**
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb" width="22"/> MongoDB<br>
-<img src="https://skillicons.dev/icons?i=mysql" width="22"/> MySQL<br>
+- 🎨 **Frontend Development** — crafting responsive, accessible, pixel-perfect UIs
+- 🖌️ **Web Designing** — turning ideas into clean, modern interfaces
+- 🔭 Exploring deeper into **Tailwind CSS** and modern JS workflows
+- 🌱 Always looking for the next tool, framework, or trick to add to the belt
 
-**👁️ Computer Vision**
+</div>
 
-<img src="https://skillicons.dev/icons?i=opencv" width="22"/> OpenCV<br>
+<br>
 
-**🛠️ Tools**
+```bash
+kush@github:~$ ./tech_stack.sh --list
+```
 
-<img src="https://skillicons.dev/icons?i=git" width="22"/> Git<br>
-<img src="https://skillicons.dev/icons?i=github" width="22"/> GitHub<br>
-<img src="https://skillicons.dev/icons?i=vscode" width="22"/> VS Code<br>
-<img src="https://skillicons.dev/icons?i=postman" width="22"/> Postman<br>
+<div align="center">
 
-## 📊 GitHub Analytics
+### Languages
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=39ff14)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39ff14)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39ff14)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushduttsharma&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=39ff14)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39ff14)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=39ff14)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kushduttsharma&theme=radical&hide_border=true)
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39ff14)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39ff14)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushduttsharma&layout=compact&theme=radical&hide_border=true)
+### Tools
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=39ff14)
+![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39ff14)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kushduttsharma&theme=radical&hide_border=true)
+</div>
 
-## 📬 Get In Touch
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-dutt-sharma-23a397392/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushduttsharma89@gmail.com)
+```bash
+kush@github:~$ ./fetch_stats.sh --live
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kushduttsharma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&ring_color=39ff14" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushduttsharma&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushduttsharma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushduttsharma&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=c9d1d9" width="97%" />
+
+</div>
+
+<br>
+
+```bash
+kush@github:~$ cat contact.json
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/kush-dutt-sharma-23a397392/)
+[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:kushduttsharma89@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```bash
+kush@github:~$ echo "Thanks for stopping by! ⚡"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kushduttsharma&color=39ff14&style=flat-square&label=terminal+visits)
+
+</div>
