@@ -44,26 +44,21 @@ kush@github:~$ ./tech_stack.sh --list
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39ff14)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=39ff14)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39ff14)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39ff14)
+<sub>&gt; Languages</sub>
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=39ff14)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39ff14)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=39ff14)
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39ff14)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39ff14)
+<sub>&gt; Frameworks & Libraries</sub>
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39ff14)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=39ff14)
-![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39ff14)
+<img src="https://skillicons.dev/icons?i=flask,opencv,tailwind&theme=dark" />
+
+<sub>&gt; Databases</sub>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+<sub>&gt; Tools</sub>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 
 </div>
 
@@ -105,9 +100,7 @@ kush@github:~$ cat contact.json
 
 <div align="center">
 
-```bash
-kush@github:~$ echo "Thanks for stopping by! ⚡"
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&random=true&width=650&height=50&lines=C0NN3CTION+35T4BL1SH3D...;C̶o̶n̶n̶e̶c̶t̶i̶o̶n̶+established.;connection_established%3D%3Dtrue;%3E+say+hi+anytime._" alt="glitch text" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
