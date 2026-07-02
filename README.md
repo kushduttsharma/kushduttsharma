@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Kush%20Dutt%20Sharma&fontSize=42&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Designer%20%7C%20Perpetual%20Learner&descAlignY=55&descSize=18&descColor=39ff14" width="100%"/>
 
 <a href="https://github.com/kushduttsharma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Kush+Dutt+Sharma;status+%3D+%22Learning...+Building...+Debugging...%22;interests+%3D+%5B%22Frontend%22%2C+%22Web+Design%22%5D;echo+%22Welcome+to+my+terminal%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Kush+Dutt+Sharma;Status%3A+Learning...+Building...+Debugging...;interests+%3D+%5BFrontend%2C+Web+Design%5D;echo+Welcome+to+my+terminal" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,10 +29,10 @@ kush@github:~$ ls -la ./currently_learning/
 
 <div align="left">
 
-- **Frontend Development** — crafting responsive, accessible, pixel-perfect UIs
-- **Web Designing** — turning ideas into clean, modern interfaces
-- Exploring deeper into **Tailwind CSS** and modern JS workflows
-- Always looking for the next tool, framework, or trick to add to the belt
+- 🎨 **Frontend Development** — crafting responsive, accessible, pixel-perfect UIs
+- 🖌️ **Web Designing** — turning ideas into clean, modern interfaces
+- 🔭 Exploring deeper into **Tailwind CSS** and modern JS workflows
+- 🌱 Always looking for the next tool, framework, or trick to add to the belt
 
 </div>
 
