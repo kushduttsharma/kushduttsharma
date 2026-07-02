@@ -29,10 +29,10 @@ kush@github:~$ ls -la ./currently_learning/
 
 <div align="left">
 
-- 🎨 **Frontend Development** — crafting responsive, accessible, pixel-perfect UIs
-- 🖌️ **Web Designing** — turning ideas into clean, modern interfaces
-- 🔭 Exploring deeper into **Tailwind CSS** and modern JS workflows
-- 🌱 Always looking for the next tool, framework, or trick to add to the belt
+- **Frontend Development** — crafting responsive, accessible, pixel-perfect UIs
+- **Web Designing** — turning ideas into clean, modern interfaces
+- Exploring deeper into **Tailwind CSS** and modern JS workflows
+- Always looking for the next tool, framework, or trick to add to the belt
 
 </div>
 
